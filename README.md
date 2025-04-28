@@ -41,7 +41,6 @@ I'm a third-year student at Chaitanya Bharathi Institute of Technology pursuing 
 
 ---
 
-⭐️ *Always looking to collaborate on innovative projects that make a difference!*
 
 <!--
 **DishaJillella/DishaJillella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
