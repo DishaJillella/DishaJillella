@@ -36,7 +36,7 @@ I'm a third-year student at Chaitanya Bharathi Institute of Technology pursuing 
 - Innovation in Technology
 
 ## 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/disha-jillella-944357259/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/disha-jillella-944357259/])
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dishajillella92@gmail.com)
 
 ---
