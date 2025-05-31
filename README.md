@@ -17,8 +17,9 @@ I'm a third-year student at Chaitanya Bharathi Institute of Technology pursuing 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+
 ## 🌱I’m currently learning ...
-- Django for backend development
+- Django for python based development
 - Advanced ML/AI techniques
 
 
