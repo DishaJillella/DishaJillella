@@ -35,7 +35,7 @@ I'm a third-year student at Chaitanya Bharathi Institute of Technology pursuing 
 - Web Development
 - Problem Solving
 - Innovation in Technology
-![Profile views](https://komarev.com/ghpvc/?username=disha-jillella&color=blue)
+
 
 
 ## 📬 Let's Connect
