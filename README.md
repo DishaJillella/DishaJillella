@@ -1,7 +1,7 @@
 # Hi there, I'm Disha Jillella 👋
 
 ## About Me
-I'm a third-year student at Chaitanya Bharathi Institute of Technology pursuing a Bachelor's degree in Artificial Intelligence and Machine Learning. As a tech enthusiast, I'm constantly exploring the latest technological developments and finding innovative solutions to everyday problems that enhance our interaction with technology.
+I'm a final-year student at Chaitanya Bharathi Institute of Technology pursuing a Bachelor's degree in Artificial Intelligence and Machine Learning. As a tech enthusiast, I'm constantly exploring the latest technological developments and finding innovative solutions to everyday problems that enhance our interaction with technology.
 
 ## 🔭 What I Do
 -Exploring AI/ML algorithms and applications
@@ -24,10 +24,6 @@ I'm a third-year student at Chaitanya Bharathi Institute of Technology pursuing 
 
 
 ## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DishaJillella&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DishaJillella&layout=compact&theme=radical)
 
 ## 🔍 I'm interested in
 - Artificial Intelligence
