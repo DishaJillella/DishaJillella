@@ -22,9 +22,6 @@ I'm a final-year student at Chaitanya Bharathi Institute of Technology pursuing 
 - Django for python based development
 - Advanced ML/AI techniques
 
-
-## 📊 GitHub Stats
-
 ## 🔍 I'm interested in
 - Artificial Intelligence
 - Machine Learning
